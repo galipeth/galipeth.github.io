@@ -31,7 +31,7 @@ footer: >-
 ---
 
 I am interested in formal languages, logic, database theory and 
-automata theory. Outside of computer science, I enjoy boardgames,
+automata theory. Outside of computer science, I enjoy board games,
 natural language semantics and pasta.
 
 
@@ -221,10 +221,10 @@ I gave oral examination for classes prépas :
 
 ## Computers
 
-I use (and recommend) the following softwares :
+I use (and recommend) the following software :
 - The [niri](https://github.com/niri-wm/niri) window manager.
-- [Neovim](https://neovim.io/). If you don’t like having a 2000 lines config
-file, try [helix](https://helix-editor.com/).
+- [Neovim](https://neovim.io/). If you don’t like having a 2000 lines
+configuration file, try [helix](https://helix-editor.com/).
 - [Nushell](https://www.nushell.sh/). Give it a try!
 
 ## Keyboards
@@ -236,7 +236,7 @@ I would recommend it to anyone who speaks French, but if you are not sure about
 learning a new disposition, try
 [qwerty-lafayette](https://qwerty-lafayette.org/).
 
-## Boardgames
+## Board games
 
 My favourite board game is *Hanabi* (and a two-player variation called *Quack*
 that was created at the ÉNS). I also really like *Warchest*
