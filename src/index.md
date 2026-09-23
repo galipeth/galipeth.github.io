@@ -5,7 +5,7 @@ shortbio: Theoretical Computer Science student
 # description-meta: Short bio for meta-data
 og-url: https://galipeth.github.io
 # location: Location, office
-email: prénom.nom@ens.psl.eu
+email: "prénom.nom@{research : lis-lab.fr, teaching : univ-amu.fr}"
 clickable-email: false
 picture: img/my-face.jpg
 picture-round: false
@@ -34,6 +34,11 @@ I am interested in formal languages, logic, database theory and
 automata theory. Outside of computer science, I enjoy board games,
 natural language semantics and pasta.
 
+I started in September 2026 a phd thesis under the supervision of
+[Nathan Lhote](https://pageperso.lis-lab.fr/~nathan.lhote/)
+and [Thomas Colcombet](https://www.irif.fr/~colcombe/),
+on the subject of _higher-order transducers_.
+
 
 # Publications
 
@@ -46,130 +51,6 @@ venue: "CSL: Computer Science Logic"
 year: 2024
 url: https://doi.org/10.4230/LIPIcs.CSL.2024.33
 ```
-
-<!-- ## Conference papers -->
-
-<!-- ``` json {.paper} -->
-<!-- "title": "Towards automatic academic pages 2", -->
-<!-- "authors": "Templato Urnehm, U. N. Owen, Wan Morotter", -->
-<!-- "venue": "Principles of Awesomeness (PAW)", -->
-<!-- "year": "2024", -->
-<!-- "url": "https://basicpage.github.io" -->
-<!-- ``` -->
-
-<!-- ``` json {.paper} -->
-<!-- "title": "Towards automatic academic pages", -->
-<!-- "authors": "Templato Urnehm, U. N. Owen", -->
-<!-- "awards": "Automatic Award", -->
-<!-- "venue": "Principles of Awesomeness (PAW)", -->
-<!-- "year": "2023", -->
-<!-- "url": "https://basicpage.github.io", -->
-<!-- "files": [ -->
-<!--   { "text": "Paper", "type": "pdf", "src": "foo.pdf" }, -->
-<!--   { "text": "Bibtex", "type": "bib", "src": "foo.bib" }, -->
-<!--   { "text": "Formalisation", "type": "code", "src": "foo.v" } -->
-<!-- ] -->
-<!-- ``` -->
-
-<!-- ## Journal papers -->
-
-<!-- ``` yaml {.paper} -->
-<!-- title: Yet another yaml parser 3 -->
-<!-- authors: Templato Urnehm -->
-<!-- awards: -->
-<!--   - Yet another "Yet another" award -->
-<!--   - Never-ending Work Award -->
-<!-- venue: Proceedings of Nihilism -->
-<!-- year: 2029 -->
-<!-- url: https://basicpage.github.io -->
-<!-- files: -->
-<!--   - text: Paper -->
-<!--     type: pdf -->
-<!--     scr: foo.pdf -->
-<!--   - text: Bibtex -->
-<!--     type: bib -->
-<!--     src: foo.bib -->
-<!-- ``` -->
-
-<!-- ``` yaml {.papers} -->
-<!-- papers: -->
-<!--   - title: Yet another yaml parser 2 -->
-<!--     authors: Templato Urnehm -->
-<!--     venue: Proceedings of Nihilism -->
-<!--     year: 2027 -->
-<!--     files: -->
-<!--       - text: Paper -->
-<!--         type: pdf -->
-<!--         scr: foo.pdf -->
-<!--       - text: Bibtex -->
-<!--         type: bib -->
-<!--         src: foo.bib -->
-<!--   - title: Yet another yaml parser -->
-<!--     authors: Templato Urnehm -->
-<!--     awards: Yet another "Yet another" award -->
-<!--     venue: Proceedings of Nihilism -->
-<!--     year: 2025 -->
-<!--     files: -->
-<!--       - text: Paper -->
-<!--         type: pdf -->
-<!--         scr: foo.pdf -->
-<!--       - text: Bibtex -->
-<!--         type: bib -->
-<!--         src: foo.bib -->
-<!--       - text: Some link -->
-<!--         type: link -->
-<!--         src: fake.link.xyz -->
-<!--       - text: Repo -->
-<!--         type: git -->
-<!--         src: github.com -->
-<!-- ``` -->
-
-<!-- ``` json {.paper} -->
-<!-- "title": "How to tame your wagon", -->
-<!-- "authors": "Templato Urnehm", -->
-<!-- "venue": "Journal of Automatic Rejection (JAR)", -->
-<!-- "year": "2022" -->
-<!-- ``` -->
-
-<!-- ## Drafts -->
-
-<!-- ``` json {.paper} -->
-<!-- "title": "TBD", -->
-<!-- "authors": "TBD", -->
-<!-- "awards": [ -->
-<!--   "Best Draft Award", -->
-<!--   "Test-of-time Award for works which just never leave the draft stage" -->
-<!-- ], -->
-<!-- "files": [ -->
-<!--   { "text": "🐱 video", "type": "video", "src": "foo.mov" }, -->
-<!--   { "text": "Poem", "type": "txt", "src": "foo.txt" }, -->
-<!--   { "text": "My picture", "type": "img", "src": "img/profile.png" }, -->
-<!--   { "text": "💣", "type": "zip", "src": "foo.zip" }, -->
-<!--   { "text": "Slides", "type": "slides", "src": "foo.key" }, -->
-<!--   { "text": "Some random file", "src": "foo.rand" } -->
-<!-- ] -->
-<!-- ``` -->
-
-<!-- ## Talks -->
-
-<!-- ``` json {.papers} -->
-<!-- { -->
-<!--   "title": "Talk 1", -->
-<!--   "authors": "Templato Urnehm", -->
-<!--   "venue": "My room" -->
-<!-- }, -->
-<!-- { -->
-<!--   "title": "Secret talk", -->
-<!--   "authors": "Templato Urnehm", -->
-<!--   "year": "1990" -->
-<!-- }, -->
-<!-- { -->
-<!--   "title": "Talk 3", -->
-<!--   "authors": "Templato Urnehm", -->
-<!--   "venue": "Don't remember…", -->
-<!--   "year": "???" -->
-<!-- } -->
-<!-- ``` -->
 
 # Education
 
@@ -212,6 +93,15 @@ During my studies, I had the pleasure of working with the following people:
 ```
 
 # Teaching
+
+## In Aix-Marseille université
+
+I give practice sessions for the following lectures:
+- Impacts environementaux du numérique (Fall 2026)
+- Algorithmique 2 (Fall 2026)
+- (more to come in Spring 2027)
+
+## Past teaching experiences
 
 I gave oral examination for classes prépas :
 - in mathematics at LLG (in MPSI1) for the year 2021-2022,
